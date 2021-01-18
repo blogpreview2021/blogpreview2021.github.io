@@ -1,0 +1,14 @@
+Billy Rick:
+  name        : "David Lassig"
+  bio         : "One of the wizards in the Cyber Innovation Hub"
+  avatar      : "/assets/images/david_self.jpg"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:david.lassig.ext@bwi.de"
+    - label: "Github"
+      icon: "fab fa-fw fa-github-square"
+      url: "https://github.com/herrfeder"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin-square"
+      url: "https://linkedin.com/in/davidlassig"
