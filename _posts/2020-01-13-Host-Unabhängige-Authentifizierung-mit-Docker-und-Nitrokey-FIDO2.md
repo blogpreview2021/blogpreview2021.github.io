@@ -1,6 +1,6 @@
 ---
 author: "David Lassig"
-layout: "splash"
+layout: "single"
 toc: true
 toc_label: "Inhalt"
 toc_icon: "file-alt"
