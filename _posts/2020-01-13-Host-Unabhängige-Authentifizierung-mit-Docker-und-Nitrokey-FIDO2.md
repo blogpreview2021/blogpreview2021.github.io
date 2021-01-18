@@ -188,7 +188,7 @@ incontainer $ ssh-keygen -t ecdsa-sk -O resident -f generated_keys/first_fido_ss
 
 ![](/assets/images/nitrokey.gif) 
 
-![]https://github.com/cyberinnovationhub/openssh-docker-nitrokey-fido2/raw/main/screenshots/ssh_client_key_creation.png()
+![](https://github.com/cyberinnovationhub/openssh-docker-nitrokey-fido2/raw/main/screenshots/ssh_client_key_creation.png)
 
   * Mit der Option `-t` wird der Typ des kryptografischen Verfahrens für das Schlüsselpaar definiert. Für FIDO2-basierte Authentifizierung mit Nitrokey ist nach meinem Kenntnisstand bisher `ecdsa-sk` unterstützt.
 
